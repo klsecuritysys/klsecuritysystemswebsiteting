@@ -84,30 +84,9 @@ return [
 
   ],
 
-    firebase: {
-// options
-
-config: {
-        apiKey: 'AIzaSyCzp4J4cu_-_kPKRcbpsUvyyAjZ37Y_xSU',
-        authDomain: 'bihogoo.firebaseapp.com',
-        databaseURL: 'https://bihogoo.firebaseio.com',
-        projectId: 'bihogoo',
-        storageBucket: 'bihogoo.appspot.com',
-        messagingSenderId: '1029288820283',
-        appId: '1:1029288820283:web:c3f1274576c45af756a61e',
-        measurementId: 'G-GSH2TDLPBW'
-      },
-services: {
-        auth: true ,
-        messaging: true,
-        performance: true,
-        analytics: true// Just as example. Can be any other service.
-      }
-
-},
 
   sitemap: {
-    hostname: 'https://bihogoo.com/',
+    hostname: 'https://klsecuritysystems.com/',
     lastmod: '2020-07-28',
     sitemaps: [
       {
